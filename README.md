@@ -1,7 +1,7 @@
-## [v2rayN](https://free-nodes.github.io/v2rayn/) 官网导航
+## [v2rayN](https://free-nodes.github.io/v2rayn/) 官网
 
 ![v2rayN](./docs/assets/v2rayN-1.png)  
-## v2rayN 教程
+## v2rayN 官网导航
 - [V2rayN 下载](./docs/v2rayn_download.md)
 
 - [V2rayN 配置](./docs/v2rayn_config.md)

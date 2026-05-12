@@ -1,8 +1,8 @@
-# v2rayN 官网导航
+# v2rayN 官网
 
 ![v2rayN](./assets/v2rayN-1.png)  
 
-## V2rayN 教程
+## V2rayN 官网导航
 
 - [V2rayN 下载](./v2rayn_download.md)
 
