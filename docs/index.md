@@ -1,8 +1,8 @@
-# v2rayN - Windows系统科学上网梯子工具
+# v2rayN 官网导航
 
 ![v2rayN](./assets/v2rayN-1.png)  
 
-## V2rayN 相关教程
+## V2rayN 教程
 
 - [V2rayN 下载](./v2rayn_download.md)
 
@@ -10,9 +10,9 @@
 
 - [V2rayN 节点](./v2rayn_nodes.md)
 
-- [V2rayN 教程](https://github.com/clashbk/clash/wiki/v2rayn)
-
 - [V2rayN 官网](./v2rayn_website.md)
+
+- [V2rayN 详细教程](https://github.com/clashbk/clash/wiki/v2rayn)
 
   
 
