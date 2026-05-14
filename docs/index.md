@@ -1,6 +1,6 @@
 # v2rayN 官网
 
-![v2rayN](./assets/v2rayN-1.png)  
+![v2rayN](./assets/v2rayN-1.png)
 
 ## V2rayN 官网导航
 
